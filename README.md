@@ -80,19 +80,3 @@ Das Dashboard bietet **interaktive Filter**:
 - **Location**
 - **Victim Profile**
 
-### 🧱 Projektstruktur
-CrimeData/
-│
-├── data/
-│   └── processed/
-│       └── Crime_Data_cleaned.csv
-│
-├── notebooks/
-│   └── 01_EDA.ipynb
-│
-├── src/
-│   └── app/
-│       └── streamlit_dashboard.py
-│
-├── README.md
-└── requirements.txt
