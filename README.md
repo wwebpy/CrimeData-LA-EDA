@@ -44,19 +44,19 @@ Das Projekt folgt einer typischen **Data-Science-Pipeline**:
 Anhand der EDA konnten folgende Erkenntnise gezogen werden.
 
 Crimes Overview:
-- In Los Angeles sind Autodiebstähle mit großem Abstand das häufigste Verbrechen, gefolgt von einfachen Körperangriffen und Diebstählen aus Fahrzeugen, was zeigt, dass vor allem Alltags- und Eigentumskriminalität das Stadtbild prägen.
+- In Los Angeles sind Autodiebstähle mit großem Abstand das häufigste Verbrechen (mit 13,3%), gefolgt von einfachen Körperangriffen (8,6%) und Diebstählen aus Fahrzeugen (7,3%), was zeigt, dass vor allem Alltags- und Eigentumskriminalität das Stadtbild prägen.
 - Bei Straftaten mit Waffen treten einfache Körperangriffe und schwere Übergriffe am häufigsten auf, gefolgt von Raub und Bedrohungen, was zeigt, dass Waffeneinsatz in Los Angeles vor allem bei körperlichen Auseinandersetzungen und Raubsituationen vorkommt.
 
 Times Analysis:
-- Die meisten Straftaten passieren in Los Angeles am Nachmittag und Nachts um 0 Uhr, während die frühen Morgenstunden deutlich weniger betroffen sind, was zeigt, dass Kriminalität stark mit aktiven Tageszeiten und sozialem Leben zusammenhängt.
+- Die meisten Straftaten passieren in Los Angeles am Nachmittag (6,0% aller Straftaten) und Nachts um 0 Uhr (6,7% aller Straftaten), während die frühen Morgenstunden deutlich weniger betroffen sind, was zeigt, dass Kriminalität stark mit aktiven Tageszeiten und sozialem Leben zusammenhängt.
 - Am meisten Kriminalität gibt es freitags und samstags, während Dienstag und Sonntag am niedrigsten liegen, was zeigt, dass Ausgehzeiten und Nachtleben ein höheres Risiko für Straftaten mit sich bringt.
 
 Location:
 - Die Kriminalität konzentriert sich aufgrund der Einwohneranzahl stark auf bestimmte Stadtbereiche, besonders in dicht besiedelten Zonen rund um Downtown und zentrale Stadtteile, während Außenbereiche deutlich weniger betroffen sind.
-- Im Vergleich aller LAPD-Bezirke treten die meisten Straftaten in Central, 77th Street und Pacific auf, während Bezirke wie Foothill und Hollenbeck deutlich weniger betroffen sind, was zeigt, dass Kriminalität in Los Angeles stark von der Lage und urbanen Dichte abhängt.
+- Im Vergleich aller LAPD-Bezirke treten die meisten Straftaten in Central (6,7%), 77th Street (6,1%) und Pacific (5,9%) auf, während Bezirke wie Foothill und Hollenbeck deutlich weniger betroffen sind, was zeigt, dass Kriminalität in Los Angeles stark von der Lage und urbanen Dichte abhängt.
 
 Victim Profile:
-- Die meisten Opfer sind junge Erwachsene zwischen etwa 20 und 40 Jahren, was zeigt, dass diese Altersgruppe am häufigsten von Straftaten betroffen ist.
+- Die meisten Opfer sind junge Erwachsene zwischen etwa 30 und 40 Jahren, was zeigt, dass diese Altersgruppe am häufigsten von Straftaten betroffen ist.
 - Die Mehrheit der Opfer sind Männer.
 - Die meisten Opfer gehören zur Gruppe Hispanic/Latin/Mexican, gefolgt von White und Black, was sowohl die Bevölkerungsstruktur in Los Angeles widerspiegelt.
 
