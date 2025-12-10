@@ -48,7 +48,7 @@ Crimes Overview:
 - Bei Straftaten mit Waffen treten einfache Körperangriffe und schwere Übergriffe am häufigsten auf, gefolgt von Raub und Bedrohungen, was zeigt, dass Waffeneinsatz in Los Angeles vor allem bei körperlichen Auseinandersetzungen und Raubsituationen vorkommt.
 
 Times Analysis:
-- Die meisten Straftaten passieren in Los Angeles am Nachmittag (6,0% aller Straftaten) und Nachts um 0 Uhr (6,7% aller Straftaten), während die frühen Morgenstunden deutlich weniger betroffen sind, was zeigt, dass Kriminalität stark mit aktiven Tageszeiten und sozialem Leben zusammenhängt.
+- Die meisten Straftaten passieren in Los Angeles Mittags um 12 Uhr (6,7% aller Straftaten) und Nachmittags um 18 Uhr (6,0% aller Straftaten), während die frühen Morgenstunden deutlich weniger betroffen sind, was zeigt, dass Kriminalität stark mit aktiven Tageszeiten und sozialem Leben zusammenhängt.
 - Am meisten Kriminalität gibt es freitags und samstags, während Dienstag und Sonntag am niedrigsten liegen, was zeigt, dass Ausgehzeiten und Nachtleben ein höheres Risiko für Straftaten mit sich bringt.
 
 Location:
